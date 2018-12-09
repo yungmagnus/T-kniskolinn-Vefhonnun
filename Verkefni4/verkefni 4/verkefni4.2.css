@@ -1,0 +1,76 @@
+header {
+	background-color: #497CB7;
+	height: 13em;
+}
+.upp1 {
+	display: grid;
+	grid-template-columns: 75% 15% 15%;
+}
+.upp1_1 {
+	font-size: 1.5em;
+}
+.uppf1 {
+	height: 5em;
+}
+.upp2 {
+	display: grid;
+	grid-template-columns: 15% 30% 15% 25% 15%
+}
+.upp2_1 {
+	font-size: 4em;
+}
+.upp2_2 {
+	font-size: 2em;
+}
+main {
+	background-image: linear-gradient(to bottom,#E5DB4D, #A49C2C);
+	display: grid;
+	grid-template-columns: 15% 70% 15%;
+}
+.maf1 {
+	height: 3em;
+}
+.man {
+	display: block;
+	text-align: center;
+
+}
+.menu {
+	display: grid;
+	grid-template-columns: auto auto auto auto auto;
+	background-color:#497CB7
+}
+h2 {
+	font-size: 1em;
+}
+h1 {
+	font-size: 3em;
+}
+.books {
+	font-size: 1.2em;
+}
+.skira {
+	font-size: 1.5em;
+}
+.bf1 {
+	height: 1em;
+}
+a:hover {
+	color: red;
+}
+a:visited {
+	color: blue
+}
+a:active: {
+	color: black;
+}
+footer {
+	bottom: 5%;
+	right: 5%;
+	position: fixed;
+	display: grid;
+	grid-row: 80% auto;
+}
+.top {
+	font-size: 3em;
+}

@@ -1,0 +1,35 @@
+header {
+	background-color: #497CB2;
+	height: 13em;
+}
+.upp1 {
+	display: grid;
+	grid-template-columns: 75% 15% 15%;
+}
+.upp1_1 {
+	font-size: 1.5em;
+}
+.uppf1 {
+	height: 5em;
+}
+.upp2 {
+	display: grid;
+	grid-template-columns: 15% 30% 15% 25% 15%
+}
+.upp2_1 {
+	font-size: 4em;
+}
+.upp2_2 {
+	font-size: 2em;
+}
+main {
+	background-color: #CAC299;
+	display: grid;
+	grid-template-columns: 15% 70% 15%;
+}
+footer {
+	background-color: #497CB2;
+	display: grid;
+	grid-template-columns: 15% 25% 10% 25% 15%;
+
+}
